@@ -1,6 +1,6 @@
 import logo from "../assets/logomini.png";
 
-import appleStore from "../assets/appleStore.png";
+import appleStore from "../assets/applestore.png";
 import playstore from "../assets/playstore.png";
 
 import linkdin from "../assets/linkdin.png";
